@@ -1,0 +1,58 @@
+{
+    "name": "vanilla-starter",
+    "version": "1.1.0",
+    "description": "🍦 vanilla starter",
+    "type": "module",
+    "keywords": [
+        "typescript",
+        "eslint",
+        "prettier",
+        "vitest",
+        "hacktoberfest",
+        "vercel",
+        "tailwind"
+    ],
+    "homepage": "https://bradgarropy.com",
+    "bugs": {
+        "url": "https://github.com/bradgarropy/vanilla-starter/issues"
+    },
+    "license": "MIT",
+    "author": {
+        "name": "Brad Garropy",
+        "email": "bradgarropy@gmail.com",
+        "url": "https://bradgarropy.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bradgarropy/vanilla-starter"
+    },
+    "scripts": {
+        "start": "vite",
+        "build": "tsc && vite build",
+        "lint": "eslint .",
+        "lint:fix": "eslint --fix .",
+        "format": "prettier --check .",
+        "format:fix": "prettier --write .",
+        "typecheck": "tsc",
+        "test": "vitest run --coverage",
+        "test:watch": "vitest",
+        "contributors": "all-contributors generate"
+    },
+    "devDependencies": {
+        "@bradgarropy/eslint-config": "^1.2.3",
+        "@bradgarropy/eslint-config-typescript": "^1.2.0",
+        "@typescript-eslint/eslint-plugin": "^7.9.0",
+        "@typescript-eslint/parser": "^7.9.0",
+        "@vitest/coverage-v8": "^1.1.1",
+        "all-contributors-cli": "^6.26.1",
+        "eslint": "^8.56.0",
+        "eslint-config-prettier": "^8.10.0",
+        "eslint-plugin-simple-import-sort": "^7.0.0",
+        "jsdom": "^24.0.0",
+        "prettier": "^3.1.1",
+        "typescript": "^5.3.3",
+        "vite": "^5.0.8",
+        "vite-tsconfig-paths": "^4.2.3",
+        "vitest": "^1.1.1"
+    }
+}

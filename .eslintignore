@@ -1,0 +1,21 @@
+# dependencies
+/node_modules
+
+# build
+/dist
+/tsconfig.tsbuildinfo
+
+# test
+/coverage
+
+# host
+/.vercel
+
+# secrets
+/.env*
+
+# logs
+/debug.log
+
+# os
+.DS_Store

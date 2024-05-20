@@ -41,8 +41,12 @@
     "devDependencies": {
         "@bradgarropy/eslint-config": "^1.2.3",
         "@bradgarropy/eslint-config-typescript": "^1.2.0",
+        "@types/react": "^18.3.2",
+        "@types/react-dom": "^18.3.0",
         "@typescript-eslint/eslint-plugin": "^7.9.0",
         "@typescript-eslint/parser": "^7.9.0",
+        "@vitejs/plugin-react": "^4.2.1",
+        "@vitejs/plugin-react-swc": "^3.6.0",
         "@vitest/coverage-v8": "^1.1.1",
         "all-contributors-cli": "^6.26.1",
         "eslint": "^8.56.0",
@@ -54,5 +58,9 @@
         "vite": "^5.0.8",
         "vite-tsconfig-paths": "^4.2.3",
         "vitest": "^1.1.1"
+    },
+    "dependencies": {
+        "react": "^18.3.1",
+        "react-dom": "^18.3.1"
     }
 }

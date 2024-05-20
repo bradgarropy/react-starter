@@ -21,13 +21,13 @@ In order to submit a pull request, you'll have to setup your own development env
 Then you can clone the forked repository to your system.
 
 ```bash
-git clone https://github.com/<username>/vanilla-starter
+git clone https://github.com/<username>/react-starter
 ```
 
 Next you need to install the dependencies.
 
 ```bash
-cd vanilla-starter
+cd react-starter
 npm install
 ```
 
@@ -93,7 +93,7 @@ I appreciate any and all types of contributions to this project! Contributors ar
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://bradgarropy.com"><img src="https://avatars.githubusercontent.com/u/11336745?v=4?s=100" width="100px;" alt="Brad Garropy"/><br /><sub><b>Brad Garropy</b></sub></a><br /><a href="https://github.com/bradgarropy/vanilla-starter/commits?author=bradgarropy" title="Code">💻</a> <a href="#design-bradgarropy" title="Design">🎨</a> <a href="https://github.com/bradgarropy/vanilla-starter/commits?author=bradgarropy" title="Documentation">📖</a> <a href="#infra-bradgarropy" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/bradgarropy/vanilla-starter/commits?author=bradgarropy" title="Tests">⚠️</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://bradgarropy.com"><img src="https://avatars.githubusercontent.com/u/11336745?v=4?s=100" width="100px;" alt="Brad Garropy"/><br /><sub><b>Brad Garropy</b></sub></a><br /><a href="https://github.com/bradgarropy/react-starter/commits?author=bradgarropy" title="Code">💻</a> <a href="#design-bradgarropy" title="Design">🎨</a> <a href="https://github.com/bradgarropy/react-starter/commits?author=bradgarropy" title="Documentation">📖</a> <a href="#infra-bradgarropy" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/bradgarropy/react-starter/commits?author=bradgarropy" title="Tests">⚠️</a></td>
     </tr>
   </tbody>
 </table>
@@ -103,9 +103,9 @@ I appreciate any and all types of contributions to this project! Contributors ar
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-[issues]: https://github.com/bradgarropy/vanilla-starter/issues
+[issues]: https://github.com/bradgarropy/react-starter/issues
 [codesandbox]: https://codesandbox.io
 [kcd-pr]: https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github
-[license]: https://github.com/bradgarropy/vanilla-starter/blob/main/license
-[fork]: https://github.com/bradgarropy/vanilla-starter/fork
-[contributors]: https://github.com/bradgarropy/vanilla-starter#-contributors
+[license]: https://github.com/bradgarropy/react-starter/blob/main/license
+[fork]: https://github.com/bradgarropy/react-starter/fork
+[contributors]: https://github.com/bradgarropy/react-starter#-contributors

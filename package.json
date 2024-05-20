@@ -1,20 +1,21 @@
 {
-    "name": "vanilla-starter",
+    "name": "react-starter",
     "version": "1.1.0",
-    "description": "🍦 vanilla starter",
+    "description": "⚛️ react starter",
     "type": "module",
     "keywords": [
         "typescript",
         "eslint",
         "prettier",
         "vitest",
+        "react",
         "hacktoberfest",
         "vercel",
         "tailwind"
     ],
     "homepage": "https://bradgarropy.com",
     "bugs": {
-        "url": "https://github.com/bradgarropy/vanilla-starter/issues"
+        "url": "https://github.com/bradgarropy/react-starter/issues"
     },
     "license": "MIT",
     "author": {
@@ -24,7 +25,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/bradgarropy/vanilla-starter"
+        "url": "https://github.com/bradgarropy/react-starter"
     },
     "scripts": {
         "start": "vite",

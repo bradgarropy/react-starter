@@ -43,6 +43,7 @@ _2025-04-15_
 -   Add a [changelog][changelog]
 -   Update [license][license] year
 -   Run GitHub Actions in parallel
+-   Switch to `npm run dev`
 
 [unreleased]: https://github.com/bradgarropy/remix-starter/compare/v1.1.0...HEAD
 [1.1.0]: https://github.com/bradgarropy/remix-starter/releases/tag/v1.1.0

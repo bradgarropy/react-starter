@@ -36,6 +36,12 @@ _YYYY-MM-DD_
 
 -   _TBD_
 
+## [1.2.0][1.2.0]
+
+_2025-04-16_
+
+-   Add [Tailwind][tailwind]
+
 ## [1.1.0][1.1.0]
 
 _2025-04-15_
@@ -45,9 +51,11 @@ _2025-04-15_
 -   Run GitHub Actions in parallel
 -   Switch to `npm run dev`
 
-[unreleased]: https://github.com/bradgarropy/remix-starter/compare/v1.1.0...HEAD
+[unreleased]: https://github.com/bradgarropy/remix-starter/compare/v1.2.0...HEAD
+[1.2.0]: https://github.com/bradgarropy/remix-starter/releases/tag/v1.2.0
 [1.1.0]: https://github.com/bradgarropy/remix-starter/releases/tag/v1.1.0
 [keep-a-changelog]: https://keepachangelog.com
 [semver]: https://semver.org
 [changelog]: changelog.md
 [license]: license
+[tailwind]: https://tailwindcss.com

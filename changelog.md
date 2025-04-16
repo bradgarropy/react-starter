@@ -41,9 +41,11 @@ _YYYY-MM-DD_
 _2025-04-15_
 
 -   Add a [changelog][changelog]
+-   Update [license][license] year
 
 [unreleased]: https://github.com/bradgarropy/remix-starter/compare/v1.1.0...HEAD
 [1.1.0]: https://github.com/bradgarropy/remix-starter/releases/tag/v1.1.0
 [keep-a-changelog]: https://keepachangelog.com
 [semver]: https://semver.org
 [changelog]: changelog.md
+[license]: license

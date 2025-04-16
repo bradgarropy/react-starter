@@ -1,9 +1,10 @@
+import tailwindcss from "@tailwindcss/vite"
 import react from "@vitejs/plugin-react-swc"
 import tsconfigPaths from "vite-tsconfig-paths"
 import {defineConfig} from "vitest/config"
 
 const config = defineConfig({
-    plugins: [tsconfigPaths(), react()],
+    plugins: [tsconfigPaths(), tailwindcss(), react()],
     server: {
         open: true,
         port: 3000,

@@ -34,24 +34,31 @@ _YYYY-MM-DD_
 
 ## [Unreleased]
 
--   _TBD_
+- _TBD_
+
+## [1.2.1][1.2.1]
+
+_2025-04-24_
+
+- Update packages
 
 ## [1.2.0][1.2.0]
 
 _2025-04-16_
 
--   Add [Tailwind][tailwind]
+- Add [Tailwind][tailwind]
 
 ## [1.1.0][1.1.0]
 
 _2025-04-15_
 
--   Add a [changelog][changelog]
--   Update [license][license] year
--   Run GitHub Actions in parallel
--   Switch to `npm run dev`
+- Add a [changelog][changelog]
+- Update [license][license] year
+- Run GitHub Actions in parallel
+- Switch to `npm run dev`
 
-[unreleased]: https://github.com/bradgarropy/remix-starter/compare/v1.2.0...HEAD
+[unreleased]: https://github.com/bradgarropy/remix-starter/compare/v1.2.1...HEAD
+[1.2.1]: https://github.com/bradgarropy/remix-starter/releases/tag/v1.2.1
 [1.2.0]: https://github.com/bradgarropy/remix-starter/releases/tag/v1.2.0
 [1.1.0]: https://github.com/bradgarropy/remix-starter/releases/tag/v1.1.0
 [keep-a-changelog]: https://keepachangelog.com
